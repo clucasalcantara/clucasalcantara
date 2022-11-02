@@ -19,4 +19,4 @@ I'm Caio, a brazilian software engineer living in Canada! :canada:
 [![GitHub clucasalcantara](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/clucasalcantara)
 
 
-- :camera: [@clucasalcantara](https://twitter.com/instagram) on Instagram
+- :camera: [@clucasalcantara](https://instagram.com/clucasalcantara) on Instagram
