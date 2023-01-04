@@ -2,14 +2,15 @@
 
 I'm Caio, a brazilian software engineer living in Canada! :canada:
 
-- 🧭 Frontend Engineer at [@kluein](https://github.com/kluein) and Senior Frontend Engineer at [Brokoli Network](https://brokoli.network)
+- 🧭 Frontend Engineer at [@kluein](https://github.com/kluein) 
+- Principal Engineer at [PRIMAL](https://www.primal.com)
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Rust, Python, Go
-- ⚙️ React, Vue, Angular
+- ⚙️ React, React Native, Vue, Angular
 - :rocket: NodeJS, Rust, Python & Go
 - ⚙️ Web3, dApp, DeFi
-- 👁️ SASS, CSS, Stylus, Styled Components
+- 👁️ SASS, CSS, Stylus, Styled Components, Tailwind
 - 💽 SQL an NoSQL Databases
 
 ## Contact
