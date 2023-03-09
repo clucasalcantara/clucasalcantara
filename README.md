@@ -3,7 +3,7 @@
 I'm Caio, a brazilian software engineer living in Canada! :canada:
 
 - 🔥 Frontend Engineer at [@kluein](https://github.com/kluein) 
-- 🔥 Principal Engineer at [PRIMAL](https://www.primal.com)
+- 🔥 Head of Engineering at [PRIMAL](https://www.primal.com)
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Rust, Python, Go
