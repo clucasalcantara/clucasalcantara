@@ -2,9 +2,6 @@
 
 I'm Caio, a brazilian software engineer living in Canada! :canada:
 
-- 🔥 Frontend Engineer at [@kluein](https://github.com/kluein) 
-- 🔥 Head of Engineering at [PRIMAL](https://www.primal.com)
-
 ## Skills
 - 👨‍💻 TypeScript, JavaScript, Rust, Python, Go
 - ⚙️ React, React Native, Vue, Angular
